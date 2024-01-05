@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\wwwol\source\repos\sawwere\ComuterGraphics\Lab14\Mesh.h(130,37): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=GLuint
+          ]
+C:\Users\wwwol\source\repos\sawwere\ComuterGraphics\Lab14\Mesh.h(146,37): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=GLuint
+          ]
+C:\Users\wwwol\source\repos\sawwere\ComuterGraphics\Lab14\Mesh.h(162,37): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=GLuint
+          ]
+C:\Users\wwwol\source\repos\sawwere\ComuterGraphics\Lab14\Mesh.h(197,45): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\wwwol\source\repos\sawwere\ComuterGraphics\Lab14\InstancedMesh.h(66,21): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\wwwol\source\repos\sawwere\ComuterGraphics\Lab14\InstancedMesh.h(67,21): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\wwwol\source\repos\sawwere\ComuterGraphics\Lab14\Scene.h(7,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\wwwol\source\repos\sawwere\ComuterGraphics\Lab14\Scene.h(32,10): warning C4930: Camera camera(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+  Создание кода
+  1 of 687 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Lab14.vcxproj -> C:\Users\wwwol\source\repos\sawwere\ComuterGraphics\x64\Release\Lab14.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
